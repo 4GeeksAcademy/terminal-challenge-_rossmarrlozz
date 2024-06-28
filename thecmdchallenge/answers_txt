@@ -1,0 +1,13 @@
+pwd
+ls -aa
+ls -R 
+clear
+
+ls *.js
+mkdir not-that-funny
+
+mv kids.jpg ./images/hello/
+cd thecmdchallenge/rm -r small-name/
+pwd the-ultimate-joke.txt
+rm -r boringfolder/
+vi kamehameha/dragon-ball-jokes.md/
